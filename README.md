@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Max
 
----
-
 - 💻 🐍 `Software engineer, focused on backend and infrastructure`
 - 🗺 `Loves to explore the world️`
 - 🎲 `Proud owner of +250 board games`
