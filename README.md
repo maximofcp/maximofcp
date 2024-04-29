@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">👋 Hey, I'm Max</h1> 
+# 👋 Hey, I'm Max
 
 ---
 
