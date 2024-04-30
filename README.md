@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Max
 
-💻 🐍 `Professional Senior Software engineer, with focus on backend and infrastructure`
+💻 `Professional Senior Software engineer, with focus on backend and infrastructure`
 
 🌍 `Loves to travel around the world️`
 
