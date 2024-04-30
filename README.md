@@ -16,8 +16,6 @@
 
 ## 💻 Professional Background
 
----
-
 ### Software Engineer <a href="https://www.25friday.com/" rel="profile">@ 25Friday</a>
 
 Currently working as a `Data/DevOps Engineer` <a href="https://www.nederlandseloterij.nl/" rel="nlo">@ Nederlandse
