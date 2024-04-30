@@ -16,7 +16,7 @@
 
 ## 💻 Professional Background
 
-### Software Engineer <a href="https://www.25friday.com/" rel="profile">@ 25Friday</a>
+### Software Engineer [Team Leader] <a href="https://www.25friday.com/" rel="profile">@ 25Friday</a>
 
 Currently working as a `Data/DevOps Engineer` <a href="https://www.nederlandseloterij.nl/" rel="nlo">@ Nederlandse
 Loterij - The largest provider of gambling in the Netherlands</a>, building ETL pipeline for bets and gaming data.
@@ -26,7 +26,7 @@ Loterij - The largest provider of gambling in the Netherlands</a>, building ETL 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=azure-devops&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%234285F4.svg?logo=terraform&logoColor=white)
 
-Worked as a `Tech lead` <a href="https://luggo.nl/" rel="luggo">@ Luggo - Travel with luggage hands-free</a>.
+Worked as a `Tech leader` <a href="https://luggo.nl/" rel="luggo">@ Luggo - Travel with luggage hands-free</a>.
 
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
